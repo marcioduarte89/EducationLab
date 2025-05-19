@@ -6,7 +6,7 @@
     public record QuestionExplanationResponse
     {
         /// <summary>
-        /// Question QuestionId
+        /// Question id
         /// </summary>
         public int QuestionId { get; init; }
 

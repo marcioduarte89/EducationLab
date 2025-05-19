@@ -6,7 +6,7 @@
     public record AssignmentTopicsResponse
     {
         /// <summary>
-        /// Topic QuestionId
+        /// Topic id
         /// </summary>
         public int TopicId { get; init; }
 

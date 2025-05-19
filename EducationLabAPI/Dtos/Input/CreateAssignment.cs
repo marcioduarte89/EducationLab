@@ -16,7 +16,7 @@
         public int UserId { get; init; }
 
         /// <summary>
-        /// Question ids assigned to the assignment
+        /// Question ids in the assignment
         /// </summary>
         public IEnumerable<int> QuestionIds { get; init; } = Enumerable.Empty<int>();
     }

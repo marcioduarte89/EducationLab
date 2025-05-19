@@ -6,12 +6,12 @@
     public record AssignmentSubTopicResponse
     {
         /// <summary>
-        /// Topic Id
+        /// SubTopic Id
         /// </summary>
         public int SubTopicId { get; init; }
 
         /// <summary>
-        /// Topic Name
+        /// SubTopic Name
         /// </summary>
         public string Name { get; init; } = default!;
 

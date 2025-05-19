@@ -6,7 +6,7 @@
     public class CreateAssignmentAnswer
     {
         /// <summary>
-        /// Question SubTopicId
+        /// Question id
         /// </summary>
         public int QuestionId { get; set; }
 
